@@ -1,0 +1,48 @@
+[project]
+name = "feature-engineering-handbook"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "array-api-compat",
+    "category-encoders",
+    "cloudpickle",
+    "colorama",
+    "contourpy",
+    "cycler",
+    "dcor",
+    "fcbf",
+    "featuretools",
+    "fonttools",
+    "holidays",
+    "importlib-resources",
+    "joblib",
+    "kiwisolver",
+    "llvmlite",
+    "matplotlib",
+    "numba",
+    "numpy",
+    "optype",
+    "packaging",
+    "pandas",
+    "patsy",
+    "pillow",
+    "psutil",
+    "pyparsing",
+    "python-dateutil",
+    "pytz",
+    "scikit-learn",
+    "scipy",
+    "seaborn",
+    "shap",
+    "six",
+    "skrebate",
+    "slicer",
+    "statsmodels",
+    "threadpoolctl",
+    "tqdm",
+    "typing-extensions",
+    "tzdata",
+    "woodwork",
+]
